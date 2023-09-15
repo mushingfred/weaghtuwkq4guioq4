@@ -14,10 +14,10 @@
         $age = 3;
         if ($username == "Suka")
         {
-            echo("The username is right")
+            echo("The username is right");
         } else
         {
-            die("Page Has died")
+            die("Page Has died");
         }
         echo("BIMBIMBAMBAM");
     ?>

@@ -12,7 +12,7 @@
         // Vaiables within php
         $username ="Suka";
         $age = 3;
-        if ($username == "Suka")
+        if ($username == "uka")
         {
             echo("The username is right");
         } else

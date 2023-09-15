@@ -9,6 +9,16 @@
 </head>
 <body>
     <?php
+        // Vaiables within php
+        $username ="Suka";
+        $age = 3;
+        if ($username == "Suka")
+        {
+            echo("The username is right")
+        } else
+        {
+            die("Page Has died")
+        }
         echo("BIMBIMBAMBAM");
     ?>
 </body>
